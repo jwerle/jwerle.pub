@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/jwerle
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jwerle.pub
+  * I am jwerle (https://keybase.io/jwerle) on keybase.
+  * I have a public key ASBIJmzjNIBim5qlKLmnjKgthn1V7kzVsj0G_oXkXb7P3Ao
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012048266ce33480629b9aa528b9a78ca82d867d55ee4cd5b23d06fe85e45dbecfdc0a",
+      "host": "keybase.io",
+      "kid": "012048266ce33480629b9aa528b9a78ca82d867d55ee4cd5b23d06fe85e45dbecfdc0a",
+      "uid": "93726585d45f22bba787b0781593b719",
+      "username": "jwerle"
+    },
+    "merkle_root": {
+      "ctime": 1631552039,
+      "hash": "b629ca1780bc258cd95a4432e236f1721f10afe5d716627a876e916186afa555ce93ee9020c381341073352ed3f997c4af736f2b27a490251b8fd69f56fc85ba",
+      "hash_meta": "3dd656c6d760e3d4c14c6fded806fae6200aec3fef6e7d17f23388f6d6120b80",
+      "seqno": 20758779
+    },
+    "service": {
+      "entropy": "wgOFkJImTyfMQn4bBrm/kGXR",
+      "hostname": "jwerle.pub",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.7.1"
+  },
+  "ctime": 1631552086,
+  "expire_in": 504576000,
+  "prev": "c3b1e3328475d7a872c0a5d9fedd1449b84facd5ea1ce1a46ad5c26e5978214f",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgSCZs4zSAYpuapSi5p4yoLYZ9Ve5M1bI9Bv6F5F2+z9wKp3BheWxvYWTESpcCB8Qgw7HjMoR116hywKXZ/t0USbhPrNXqHOGkatXCbll4IU/EIM8LuDIDxjdQodM7tcyaUvmseE+iUGBEpbABCZ5kMd0KAgHCo3NpZ8RA90zHLuv9tgsGd5g3Pdj+O1gHO97jZ6QawQ3pNL4hvPkAAj+m8YeGAYvl+BN0C/Z8lnlG6A01CFTr9+AZCHLIBqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEICYKp3yCqNW90ehRNA4CzmlZ7HIpNz+Ty0fT+3+q2RxQo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jwerle
+
+==================================================================

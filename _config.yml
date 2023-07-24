@@ -1,1 +1,4 @@
 include: ['.well-known']
+webrick:
+  headers:
+    Content-Security-Policy: default-src http://* https://* ipc://* file://* socket:* data://*;
